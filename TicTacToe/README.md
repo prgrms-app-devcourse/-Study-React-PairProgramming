@@ -4,6 +4,16 @@
 
 <br>
 
+## ✅ 틱택토 페어현황
+
+| 팀 / 이름 |                                                                                         |
+| --------- | --------------------------------------------------------------------------------------- |
+| 1팀       | [☕️ 나라](https://velog.io/@nara04040/posts), [성민](https://velog.io/@seongmin/posts) |
+| 2팀       | [준영](https://www.physicaljun.blog/), [다영](https://iamwooda0.tistory.com/)           |
+| 3팀       | [희원](https://velog.io/@phwon7/posts), [준위](https://velog.io/@pletze/posts)          |
+
+<br>
+
 ### 구현예시
 
 <br>
